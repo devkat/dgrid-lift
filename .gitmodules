@@ -1,3 +1,9 @@
 [submodule "src/main/resources/toserve/dgrid"]
 	path = src/main/resources/toserve/dgrid
 	url = https://github.com/SitePen/dgrid.git
+[submodule "src/main/resources/toserve/xstyle"]
+	path = src/main/resources/toserve/xstyle
+	url = https://github.com/kriszyp/xstyle.git
+[submodule "src/main/resources/toserve/put-selector"]
+	path = src/main/resources/toserve/put-selector
+	url = https://github.com/kriszyp/xstyle.git
